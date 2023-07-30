@@ -8,7 +8,7 @@
 
 
 ### About Me 🚀
-💻 I’m a **Backend Engineer** with a large experience as FullStack and DevOps. I love discuss/implement amazing Software Architecture</br>
+💻 I’m a **Senior Backend Engineer** with a large experience as FullStack and DevOps. I love discuss/implement amazing Software Architecture</br>
 💬 if you need any help or want to discuss any software development topic, bring your ☕ and ping me. </br></br>
    
 <hr />
