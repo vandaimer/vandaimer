@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [**audibene**](https://github.com/Audibene-GMBH)
 - 🌱 I’m currently learning **Offensive Security (Penstest)**
-- 👯 I’m looking to collaborate on J**avaScript/Python awesome projects.**
+- 👯 I’m looking to collaborate on **JavaScript/Python awesome projects.**
 - 🤔 I’m looking for help with **Code Reviews, Mentoring.**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luizfilipemoresco/) | [Twitter](https://twitter.com/luizfmoresco)
 
